@@ -16,7 +16,7 @@ Installation
 
 Edit your Gemfile and add this line:
 
-    gem 'rails_bootstrap_datepicker', :source=>'https://github.com/christophedthofer/bootstrap_datepicker_rails.git'
+    gem 'bootstrap_datepicker_rails', :github=>'christophedthofer/bootstrap_datepicker_rails'
 
 Add this line to your app/assets/javascripts/application.js
 

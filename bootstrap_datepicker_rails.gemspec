@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "This plugin uses Stefan Petre's awesome Bootstrap Datepicker and makes it available as a gem."
   s.description = "This plugin uses Stefan Petre's awesome Bootstrap Datepicker and makes it available as a gem."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.6"
